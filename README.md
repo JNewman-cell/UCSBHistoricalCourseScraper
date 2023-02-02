@@ -1,6 +1,6 @@
 # UCSBHistoricalCourseScraper
 
-Finds all courses and their respective names for certain class subjects using their shortened classification (e.g. ECE, CMPSC for Electrical Engineering and Computer Science) and compiles each quarter of the last year into a quarter-specific csv file for use in Excel or Google Sheets.
+Finds all courses and their respective names for certain class subjects using their shortened classification (e.g. ECE, CMPSC for Electrical Engineering and Computer Science) and compiles each quarter of the last year into a quarter-specific csv file for use in Excel or Google Sheets. This is accomplished through website scraping of the UCSB course website, this speeds up the process for searching through every course 
 
 ## Getting Started
 
